@@ -34,7 +34,8 @@ CancerVision is a Python-based deep learning project that aims to assist in the 
 
 1. **Prepare the dataset:** Download and pre-process the breast cancer image dataset according to the instructions provided. 
 2. **Train the model:** Run the Bcancer_Vision responsible for training the CNN model.
-4. **(Optional) Test on new images:** If applicable, include instructions on using the model for prediction on new breast cancer images.
+4. **Test on new images:** If applicable, include instructions on using the model for prediction on new breast cancer images.
+5.Running the Bcancer_Vision script in Google Colab creates an (.h5) file containing pre-processed data for breast cancer image analysis. This h5 file is then loaded and utilized by the app.py script for further processing or model training." 
 
 **Disclaimer:**
 
